@@ -1,6 +1,6 @@
 {
   "name": "pirata",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "Search torrents in The Pirate Bay",
   "main": "./lib/pirata.js",
   "dependencies": {
