@@ -25,6 +25,6 @@ Also, you can search in a TPB mirror and select categories and pages.
   
   pirata.search("something", opts, function(res){
     // Do Something
-    // return: [{name: "something, seeds: 123, leechs: 33, magnet: "linkmagnet" }]
+    // return: [{name: "something", seeds: 123, leechs: 33, magnet: "linkmagnet" }]
   });
 ```
