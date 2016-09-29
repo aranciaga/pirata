@@ -19,7 +19,7 @@ Also, you can search in a TPB mirror and select categories and pages.
   
   var opts = {
     url: "https://pirateproxy.red/",
-    page: 2,
+    page: 2, // note: start in 0.
     cat: CATEGORY_CODE // Audio = 100, Video = 200, Apps = 300, Games = 400, Porn = 500
   }
   
