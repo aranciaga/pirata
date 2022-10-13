@@ -8,7 +8,7 @@ const pirata = require('pirata');
 
 pirata.search("something", function(err, res)
 {
-	// res: [{name: "something, seeds: 123, leechs: 33, magnet: "linkmagnet" }]
+	// res: [{name: "something", seeds: 123, leechs: 33, magnet: "linkmagnet" }]
 });
 ```
 
